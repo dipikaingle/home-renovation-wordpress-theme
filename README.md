@@ -90,4 +90,4 @@ Email: dipikaingle26@gmail.com
 LinkedIn: www.linkedin.com/in/dipika-ingle
 
 ## ⭐ Support
-If you like this project, feel free to ⭐ the repository!
+If you like this project, feel free to ⭐ the Home Renovation Work!
