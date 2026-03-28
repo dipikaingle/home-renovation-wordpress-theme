@@ -41,15 +41,15 @@ Ideal for:
 
 ## 📷 Screenshots
 - Home Page
-![Homepage](./screenshots/homepage.jpg)
+![Homepage](./screenshot/homepage.jpg)
 - Services Page
-![Services](./screenshots/servicepage.jpg)
+![Services](./screenshot/servicepage.jpg)
 - Projects Page
-![Projects](./screenshots/projectpage.jpg)
+![Projects](./screenshot/projectpage.jpg)
 - Single Project Page
-![Single Project](./screenshots/single-project.jpg)
+![Single Project](./screenshot/single-project.jpg)
 - Blog Page
-![Blog Page](./screenshots/blogpage.jpg)
+![Blog Page](./screenshot/blogpage.jpg)
 
 ---
 
